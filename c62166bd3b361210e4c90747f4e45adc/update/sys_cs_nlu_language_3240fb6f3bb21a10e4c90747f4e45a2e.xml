@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_cs_nlu_language">
+    <sys_cs_nlu_language action="INSERT_OR_UPDATE">
+        <enabled>false</enabled>
+        <language display_value="Portuguese">3240fb6f3bb21a10e4c90747f4e45a2d</language>
+        <sys_class_name>sys_cs_nlu_language</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-06 08:00:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>3240fb6f3bb21a10e4c90747f4e45a2e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="JCGtest2024" source="x_snc_jcgtest2024">c62166bd3b361210e4c90747f4e45adc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="JCGtest2024">c62166bd3b361210e4c90747f4e45adc</sys_scope>
+        <sys_update_name>sys_cs_nlu_language_3240fb6f3bb21a10e4c90747f4e45a2e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-06 08:00:05</sys_updated_on>
+    </sys_cs_nlu_language>
+</record_update>

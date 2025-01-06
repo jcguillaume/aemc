@@ -24,7 +24,7 @@
         <scoped_administration>false</scoped_administration>
         <short_description>JCGtest2024</short_description>
         <source>x_snc_jcgtest2024</source>
-        <store_correlation_id/>
+        <store_correlation_id>REPOAPP0000001001</store_correlation_id>
         <store_url/>
         <subscription_entitlement/>
         <sys_class_name>sys_app</sys_class_name>
@@ -32,9 +32,9 @@
         <sys_created_by>jc_dev</sys_created_by>
         <sys_created_on>2024-12-31 15:44:59</sys_created_on>
         <sys_id>c62166bd3b361210e4c90747f4e45adc</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-12-31 16:12:00</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>jc.guillaume@snc</sys_updated_by>
+        <sys_updated_on>2025-01-06 10:42:49</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>
