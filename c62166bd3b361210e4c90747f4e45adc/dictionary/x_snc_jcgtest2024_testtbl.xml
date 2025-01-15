@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="5581aebd3b361210e4c90747f4e45ad9" extends="sc_request" label="testtbl" max_length="40" name="x_snc_jcgtest2024_testtbl" type="collection">
         <element label="testfield" max_length="40" name="testfield" type="string"/>
+        <element label="test2" max_length="40" name="test2" type="string"/>
     </element>
 </database>
