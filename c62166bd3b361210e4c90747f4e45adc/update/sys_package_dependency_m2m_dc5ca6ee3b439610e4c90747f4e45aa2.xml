@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="testJCG2025" source="x_snc_testjcg2025">4a2bee6e3b439610e4c90747f4e45a5d</dependency>
+        <min_version>1.0.2</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-15 10:45:09</sys_created_on>
+        <sys_id>dc5ca6ee3b439610e4c90747f4e45aa2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="JCGtest2024" source="x_snc_jcgtest2024">c62166bd3b361210e4c90747f4e45adc</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-15 10:45:09</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
